@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href = "https://www.facebook.com/mario.alabd"><img src="https://www.svgrepo.com/show/506656/facebook.svg" alt="facebook" style="zoom: 8%;" /></a>   <a href = "https://www.linkedin.com/in/mario-alabd-1a6467221/"><img src="https://www.svgrepo.com/show/506517/linkedin.svg" alt="image-20230228193501160" style="zoom:8%;" /></a>
+<a href = "https://www.facebook.com/mario.alabd"><img src="https://www.svgrepo.com/show/506656/facebook.svg" alt="facebook" style="zoom: 0.1;" /></a>   <a href = "https://www.linkedin.com/in/mario-alabd-1a6467221/"><img src="https://www.svgrepo.com/show/506517/linkedin.svg" alt="image-20230228193501160" style="zoom:8%;" /></a>
 
 ### Languages and Tools:
 
