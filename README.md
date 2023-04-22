@@ -8,8 +8,31 @@
 
 ### Connect with me:
 
-<a href = "https://www.facebook.com/mario.alabd"><img src="https://www.svgrepo.com/show/506656/facebook.svg" alt="facebook" style="zoom: 0.1;" /></a>   <a href = "https://www.linkedin.com/in/mario-alabd-1a6467221/"><img src="https://www.svgrepo.com/show/506517/linkedin.svg" alt="image-20230228193501160" style="zoom:8%;" /></a>
+![<img align="left" alt="Mario Malak | FaceBook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" >](https://www.facebook.com/mario.alabd)
+
+[<img align="left" alt="Mario Malak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mario-alabd-1a6467221/)
 
 ### Languages and Tools:
 
-<img src="https://www.svgrepo.com/show/452091/python.svg" alt="image-20230228194006317" style="zoom: 26px;" /><img src="https://www.svgrepo.com/show/373554/django.svg" alt="image-20230228194016044" style="zoom: 26px;" /><img src="https://www.svgrepo.com/show/373527/cpp2.svg" alt="image-20230228194045394" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/452184/csharp.svg" alt="image-20230228194058803" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/452234/java.svg" alt="image-20230228194108546" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/506497/github.svg" alt="image-20230228194203096" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/452210/git.svg" alt="image-20230228194211216" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/473577/css3.svg" alt="image-20230228194320895" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/473654/html5.svg" alt="image-20230228194332836" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/341068/sql.svg" alt="image-20230228194342239" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/306591/postgresql.svg" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/485616/atom.svg" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/330319/dot-net.svg" style="zoom:2%;" /><img src="https://www.svgrepo.com/show/378478/vscode-fill.svg" style="zoom:2%;" /> 
+
+[<img align="left" alt="CPP" width="22px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg"/>]()
+[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
+[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />]()
+[<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" />]()
+[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />]()
+[<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />]()
+[<img align="left" alt="Atom" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" />]()
+[<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />]()
+[<img align="left" alt="Jet Brains" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]() <br><br>
+[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
