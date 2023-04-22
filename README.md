@@ -8,9 +8,12 @@
 
 ### Connect with me:
 
-![<img align="left" alt="Mario Malak | FaceBook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" >](https://www.facebook.com/mario.alabd)
+[<img align="left" alt="Mario Malak | FaceBook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" >](https://www.facebook.com/mario.alabd)
 
 [<img align="left" alt="Mario Malak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mario-alabd-1a6467221/)
+
+<br>
+<br>
 
 ### Languages and Tools:
 
