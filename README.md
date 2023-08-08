@@ -4,7 +4,7 @@
 
 - 🐍 I'm Python Developer, Web Developer
 - 🤩 I’m currently learning **Backend Development**
-- 🤓 Learning more and Studying .Net Framework, Django Framework
+- 🤓 Learning more and Studying .Net Framework, Django Framework, DjangoRestFramework
 
 ### Connect with me:
 
