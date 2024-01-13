@@ -1,10 +1,9 @@
 ### Hi There, I'm Mario Malak Alabd
 
-#### Student at Faculty of Computers and Artificial Intelligence Cairo University.
+#### Student at Faculty of Computers and Artificial Intelligence Cairo University Information System Department.
 
-- 🐍 I'm Python Developer, Web Developer
-- 🤩 I’m currently learning **Backend Development**
-- 🤓 Learning more and Studying .Net Framework, Django Framework, DjangoRestFramework
+- 🐍 I'm Python Developer, Backend Developer.
+- 🤓 Learning more about backend and Studying Java Spring, and Kotlin.
 
 ### Connect with me:
 
