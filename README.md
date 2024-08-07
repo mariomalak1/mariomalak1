@@ -1,9 +1,9 @@
 ### Hi There, I'm Mario Malak Alabd
 
 #### Student at Faculty of Computers and Artificial Intelligence Cairo University Information System Department.
-
-- 🐍 I'm Python Developer, Backend Developer.
-- 🤓 Learning more about backend and Studying Java Spring, and Kotlin.
+- 👾 Backend Developer
+- 🐍 Python Developer.
+- 🤓 Learning now Node.js and Express.
 
 ### Connect with me:
 
