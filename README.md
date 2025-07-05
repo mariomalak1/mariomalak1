@@ -79,21 +79,22 @@
 
 <br clear="both">
 
-<div align="left" style="display: flex; justify-content: space-between; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" 
-    alt="Top Languages" 
-    style="width: 47%; height: auto;" 
+    alt="Most Used Languages" 
+    style="width: 48%; min-width: 300px;" 
   />
 
   <img 
     src="https://streak-stats.demolab.com?user=mariomalak1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" 
-    alt="GitHub Streak" 
-    style="width: 47%; height: auto;" 
+    alt="Contribution Streak" 
+    style="width: 48%; min-width: 300px;" 
   />
 
 </div>
+
 
 
 
