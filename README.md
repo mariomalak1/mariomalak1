@@ -79,7 +79,7 @@
 
 <br clear="both">
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
+<div align="left" style="display: flex; justify-content: space-between; gap: 10px;">
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" 
