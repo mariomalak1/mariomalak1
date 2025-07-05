@@ -1,41 +1,109 @@
-### Hi There, I'm Mario Malak Alabd
+<h3 align="center">Hi There, I'm Mario Malak Alabd</h3>
 
-#### Student at Faculty of Computers and Artificial Intelligence Cairo University Information System Department.
-- Backend Developer
-- Python Developer
+###
 
+<h4 align="center">Recent graduate in Information Systems from the Faculty of Computers and Artificial Intelligence, Cairo University (Class of 2025)</h4>
 
-### Connect with me:
+###
 
-[<img align="left" alt="Mario Malak | FaceBook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" >](https://www.facebook.com/mario.alabd)
+<h4 align="center">Software Engineer | Backend Developer | Node.js | Python</h4>
 
-[<img align="left" alt="Mario Malak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mario-alabd-1a6467221/)
+###
 
-[![Gmail](https://camo.githubusercontent.com/87260fe38082a39bb64226f162e669eb497bb2635200868349143dbc870542f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:marioalabd611@gmail.com)
+<h4 align="left">Connect with me:</h4>
 
-### Languages and Tools:
+###
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
+<div align="left">
+  <a href="https://www.linkedin.com/in/mario-alabd-1a6467221/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:marioalabd611@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-[<img align="left" alt="CPP" width="22px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg"/>]()
-[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />]()
-[<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" />]()
-[<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />]()
-[<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />]()
-[<img align="left" alt="Atom" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" />]()
-[<img align="left" alt="Pycharm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" />]()
-[<img align="left" alt="Jet Brains" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]() <br><br>
-[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-<br>
+###
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&show_icons=true&locale=en&layout=compact" alt="mariomalak1" /></p>
+<h4 align="left">Languages and Tools:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h4 align="left">contributions</h4>
+
+<img src="https://raw.githubusercontent.com/mariomalak1/mariomalak1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mariomalak1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="90" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariomalak1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h4 align="left">Github Trophies</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=mariomalak1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
