@@ -84,29 +84,19 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" 
     alt="Most Used Languages" 
-    style="width: 48%; min-width: 300px;" 
+    style="width: 48%;" 
   />
 
   <img 
     src="https://streak-stats.demolab.com?user=mariomalak1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" 
     alt="Contribution Streak" 
-    style="width: 48%; min-width: 300px;" 
+    style="width: 48%;"
   />
 
 </div>
 
 
 
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariomalak1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" width="95%" />
-</div>
-
-###
 
 <h4 align="left">Github Trophies</h4>
 
@@ -116,16 +106,16 @@
   <img src="https://github-profile-trophy.vercel.app?username=mariomalak1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<div align="left">
-</div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariomalak1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" width="70%" />
 </div>
 
 ###
+
+
+
