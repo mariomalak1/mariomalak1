@@ -84,13 +84,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" 
     alt="Top Languages" 
-    style="width: 49%; height: auto;" 
+    style="width: 47%; height: auto;" 
   />
 
   <img 
     src="https://streak-stats.demolab.com?user=mariomalak1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" 
     alt="GitHub Streak" 
-    style="width: 49%; height: auto;" 
+    style="width: 47%; height: auto;" 
   />
 
 </div>
