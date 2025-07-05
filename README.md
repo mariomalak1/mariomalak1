@@ -79,21 +79,22 @@
 
 <br clear="both">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
+<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" 
-    alt="languages graph" 
-    style="width: 48%; height: auto;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomalak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" 
+    alt="Top Languages" 
+    style="width: 49%; height: auto;" 
   />
 
   <img 
-    src="https://streak-stats.demolab.com?user=mariomalak1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" 
-    alt="streak graph" 
-    style="width: 48%; height: auto;" 
+    src="https://streak-stats.demolab.com?user=mariomalak1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" 
+    alt="GitHub Streak" 
+    style="width: 49%; height: auto;" 
   />
 
 </div>
+
 
 
 ###
