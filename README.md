@@ -96,17 +96,6 @@
 </div>
 
 
-
-
-<h4 align="left">Github Trophies</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mariomalak1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
 ###
 
 <br clear="both">
